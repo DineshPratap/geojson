@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "01",
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        
+                    ]
+                ]
+            },
+            "bbox": [
+                
+            ]
+        }
+    ]
+}
